@@ -1,4 +1,4 @@
-package ro.ase.ism.sqma.main;
+package main.java.com.utils;
 
 public class Utils {
 
