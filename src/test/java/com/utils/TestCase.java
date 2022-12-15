@@ -9,7 +9,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
-import ro.ase.ism.sqma.main.Utils;
+import main.java.com.utils.Utils;
 
 
 class TestCase {
