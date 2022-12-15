@@ -1,4 +1,4 @@
-package ro.ism.sqma.test;
+package test.java.com.utils;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
 import ro.ase.ism.sqma.main.Utils;
 
 
-class TestCases {
+class TestCase {
 	private Utils utils;
 	
 	@BeforeEach
