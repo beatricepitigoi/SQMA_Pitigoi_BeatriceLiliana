@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="target/classes" path="src">
+	<classpathentry kind="src" path="src/ro/ism/sqma/test">
+        <classpathentry kind="src" path="src/ro/ism/sqma/main">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
